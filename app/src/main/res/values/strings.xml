@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SocialChat</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="service_name">chatService</string>
+    <string name="title_activity_chat_room">CreateRoomActivity</string>
+    <string name="chat_service">chatService</string>
+    <string name="search_chatrooms">search Chat Rooms</string>
+    <string name="btn_send">btn_send</string>
+    <string name="txt_hint">What\'s on your mind ?</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
